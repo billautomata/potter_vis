@@ -1,0 +1,2 @@
+- [ ] parse book data into String
+- [ ] create indexes function 
