@@ -8,6 +8,52 @@ var main_characters = [
   'Draco Malfoy'
 ]
 
+var death_eaters = [
+  'avery',
+  'regulus black',
+  'alecto carrow',
+  'amycus carrow',
+  'barty crouch jr',
+  'antonin dolohov',
+  'fenrir greyback',
+  'igor karkaroff',
+  'bellatrix lestrange',
+  'walden macnair',
+  'draco malfoy',
+  'lucius malfoy',
+  'peter pettigrew',
+  'severus snape',
+  'yaxley'
+]
+
+var dumbledores_army = [
+  'Hannah Abbott',
+  'Katie Bell',
+  'Susan Bones',
+  'Terry Boot',
+  'Lavender Brown',
+  'Cho Chang',
+  'Michael Corner',
+  'Colin and Dennis Creevey',
+  'Marietta Edgecombe',
+  'Justin Finch-Fletchley',
+  'Seamus Finnigan',
+  'Anthony Goldstein',
+  'Angelina Johnson',
+  'Lee Jordan',
+  'Neville Longbottom',
+  'Luna Lovegood',
+  'Ernie Macmillan',
+  'Padma Patil',
+  'Parvati Patil',
+  'Zacharias Smith',
+  'Alicia Spinnet',
+  'Dean Thomas',
+  'Fred Weasley',
+  'George Weasley',
+  'Ginny Weasley'
+]
+
 var howgarts_staff = [
   'cuberth binns',
   'charity burbage',
@@ -65,10 +111,6 @@ var hogwarts_houses = [
   'ravenclaw',
   'slytherin'
 ]
-
-
-
-
 
 // https://en.wikipedia.org/wiki/List_of_spells_in_Harry_Potter
 var spells = [
