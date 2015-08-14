@@ -4,16 +4,11 @@ var get_positions = require('./find_indexes.js')
 
 require('./init.js')(function(corpus){
 
-  console.log('callback')
-  console.log(corpus.length)
+  var clock = require('./clock.js')
 
-  var book_positions = get_positions(corpus, '_]book[_')
-  console.log(book_positions)
+  clock('harry', corpus)
 
-  var m = get_positions(corpus, 'harry')
-
-  window.g = function(k){ console.log(get_positions(corpus, k)) }
-
+  console.log('wtf')
   // console.log(m)
 
 })
